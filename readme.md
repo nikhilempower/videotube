@@ -1,3 +1,3 @@
-# Video Tube Platform
+# Video Tube
 
-This is a video series application
+This is a video application on backend with javascript
